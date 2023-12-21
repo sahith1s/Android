@@ -26,7 +26,7 @@ UnitConverter is a versatile Android mobile app that serves as a unit converter 
 
 ## Installation
 
-![APK]()
+![APK](additional_info/UnitConverterAPK.apk)
 
 ## Usage
 
