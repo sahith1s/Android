@@ -17,8 +17,8 @@ UnitConverter is a versatile Android mobile app that serves as a unit converter 
 
 ## Screenshots
 
-![Screenshot 1](/path/to/screenshot1.png)
-![Screenshot 2](/path/to/screenshot2.png)
+![Screenshot 1](additional_info/ss1.jpg)
+![Screenshot 2](additional_info/ss2.jpg)
 
 ## Demo Video
 
