@@ -22,7 +22,7 @@ UnitConverter is a versatile Android mobile app that serves as a unit converter 
 
 ## Demo Video
 
-[![Demo Video](https://img.youtube.com/vi/your_demo_video_id/0.jpg)](https://www.youtube.com/watch?v=your_demo_video_id)
+[![Demo Video](additional_info/Demo.mp4)
 
 ## Installation
 
