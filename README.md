@@ -1,6 +1,6 @@
 # UnitConverter - Android Unit Converter
 
-![App Logo](drawable items/icons.png)
+![App Logo](/drawable items/icons.png)
 
 
 
